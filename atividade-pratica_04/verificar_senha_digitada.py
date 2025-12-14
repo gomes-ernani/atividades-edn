@@ -17,5 +17,4 @@ while True:
         print("Senha forte!")
         break
     else:
-        print(
-            "Senha fraca. Deve ter pelo menos 8 caracteres e conter pelo menos um número.")
+        print("Senha fraca. Deve ter pelo menos 8 caracteres e conter pelo menos um número.")
